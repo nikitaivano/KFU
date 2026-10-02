@@ -1,0 +1,15 @@
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\Home 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\Home 4.AssemblyInfoInputs.cache
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\Home 4.AssemblyInfo.cs
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\Home 4.csproj.CoreCompileInputs.cache
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\Home 4.sourcelink.json
+D:\ДЗ\Home\Home 4\bin\Debug\net10.0\Home 4.exe
+D:\ДЗ\Home\Home 4\bin\Debug\net10.0\Home 4.deps.json
+D:\ДЗ\Home\Home 4\bin\Debug\net10.0\Home 4.runtimeconfig.json
+D:\ДЗ\Home\Home 4\bin\Debug\net10.0\Home 4.dll
+D:\ДЗ\Home\Home 4\bin\Debug\net10.0\Home 4.pdb
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\Home 4.dll
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\refint\Home 4.dll
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\Home 4.pdb
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\Home 4.genruntimeconfig.cache
+D:\ДЗ\Home\Home 4\obj\Debug\net10.0\ref\Home 4.dll
