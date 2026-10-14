@@ -8,4 +8,10 @@
         this.name = name;
         this.age = age;
     }
+
+    public virtual void Introduce()
+    {
+        Console.WriteLine($"Я человек, меня зовут {name}");
+    }
 }
+
