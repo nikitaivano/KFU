@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\interfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\unknown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\unknown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\mechanicalspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\mechanicalspider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\general.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\flymagicball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\flymagicball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\drone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|d:\\\u0434\u0437\\home\\home 6\\home 6\\home 6\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B6F03B-89BD-401D-87B4-17297A32797B}|Home 6\\Home 6.csproj|solutionrelative:home 6\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Interfaces.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Interfaces.cs",
+              "RelativeDocumentMoniker": "Home 6\\Interfaces.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Interfaces.cs",
+              "RelativeToolTip": "Home 6\\Interfaces.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:16:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unknown.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Unknown.cs",
+              "RelativeDocumentMoniker": "Home 6\\Unknown.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Unknown.cs",
+              "RelativeToolTip": "Home 6\\Unknown.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:26:32.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MechanicalSpider.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\MechanicalSpider.cs",
+              "RelativeDocumentMoniker": "Home 6\\MechanicalSpider.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\MechanicalSpider.cs",
+              "RelativeToolTip": "Home 6\\MechanicalSpider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:21:23.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlyMagicBall.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\FlyMagicBall.cs",
+              "RelativeDocumentMoniker": "Home 6\\FlyMagicBall.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\FlyMagicBall.cs",
+              "RelativeToolTip": "Home 6\\FlyMagicBall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:17:59.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Drone.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Drone.cs",
+              "RelativeDocumentMoniker": "Home 6\\Drone.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Drone.cs",
+              "RelativeToolTip": "Home 6\\Drone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T20:10:30.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Bird.cs",
+              "RelativeDocumentMoniker": "Home 6\\Bird.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Bird.cs",
+              "RelativeToolTip": "Home 6\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:55:57.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Human.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Human.cs",
+              "RelativeDocumentMoniker": "Home 6\\Human.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Human.cs",
+              "RelativeToolTip": "Home 6\\Human.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:16:14.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "General.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\General.cs",
+              "RelativeDocumentMoniker": "Home 6\\General.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\General.cs",
+              "RelativeToolTip": "Home 6\\General.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:53:30.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Program.cs",
+              "RelativeDocumentMoniker": "Home 6\\Program.cs",
+              "ToolTip": "D:\\\u0414\u0417\\Home\\Home 6\\Home 6\\Home 6\\Program.cs",
+              "RelativeToolTip": "Home 6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:24:55.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

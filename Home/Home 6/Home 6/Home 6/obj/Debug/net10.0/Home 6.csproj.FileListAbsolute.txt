@@ -1,0 +1,16 @@
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.AssemblyInfoInputs.cache
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.AssemblyInfo.cs
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.csproj.CoreCompileInputs.cache
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.sourcelink.json
+D:\ДЗ\Home\Home 6\Home 6\Home 6\bin\Debug\net10.0\Home 6.exe
+D:\ДЗ\Home\Home 6\Home 6\Home 6\bin\Debug\net10.0\Home 6.deps.json
+D:\ДЗ\Home\Home 6\Home 6\Home 6\bin\Debug\net10.0\Home 6.runtimeconfig.json
+D:\ДЗ\Home\Home 6\Home 6\Home 6\bin\Debug\net10.0\Home 6.dll
+D:\ДЗ\Home\Home 6\Home 6\Home 6\bin\Debug\net10.0\Home 6.pdb
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.dll
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\refint\Home 6.dll
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.pdb
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.genruntimeconfig.cache
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\ref\Home 6.dll
+D:\ДЗ\Home\Home 6\Home 6\Home 6\obj\Debug\net10.0\Home 6.csproj.Up2Date
