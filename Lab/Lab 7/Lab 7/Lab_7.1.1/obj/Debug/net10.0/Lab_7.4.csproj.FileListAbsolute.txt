@@ -1,0 +1,16 @@
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\bin\Debug\net10.0\Lab_7.4.exe
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\bin\Debug\net10.0\Lab_7.4.deps.json
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\bin\Debug\net10.0\Lab_7.4.runtimeconfig.json
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\bin\Debug\net10.0\Lab_7.4.dll
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\bin\Debug\net10.0\Lab_7.4.pdb
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.AssemblyInfoInputs.cache
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.AssemblyInfo.cs
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.csproj.CoreCompileInputs.cache
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.sourcelink.json
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.dll
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\refint\Lab_7.4.dll
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.pdb
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.genruntimeconfig.cache
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\ref\Lab_7.4.dll
+D:\ДЗ\Lab\Lab 7\Lab 7\Lab_7.1.1\obj\Debug\net10.0\Lab_7.4.csproj.Up2Date
