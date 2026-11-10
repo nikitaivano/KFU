@@ -7,10 +7,12 @@
         if (!int.TryParse(Console.ReadLine(), out int n))
         {
             System.Console.WriteLine("Error");
+            return;
         }
         if (n % 2 == 0)
         {
             System.Console.WriteLine("Размер не нечетное");
+            return;
         }
         int[,] arr = new int[n, n];
         Console.WriteLine("Напишите числа для массива");
